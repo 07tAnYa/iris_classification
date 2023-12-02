@@ -25,9 +25,7 @@ pip install numpy pandas scikit-learn
 ## Results
 
 The trained model has achieved the following accurecies:
--linear SVC is 1.000
--Poly SVC is 0.933
--Logistic Regression is 0.950
+ linear SVC is 1.000, Poly SVC is 0.933 & Logistic Regression is 0.950
 
 More details about the performance metrics can be found in the notebook or script.
 
